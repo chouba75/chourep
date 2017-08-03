@@ -1,0 +1,53 @@
+
+git clone path
+git status
+git add file
+git commit -m "dd"
+git pull
+
+
+
+
+July Release Plan:
+
+
+26Th -> 10:00 AM - Andres - Need to change time - Narishama  - 25th to andres   -> Andres mail to 
+ANdres -> 
+
+
+2) Boopathii to confirm on details  - Informatica Production respositary backup into BI 1
+
+3) Ken - Remove name Andre - send mail to andre to start on this activity  ->  Create a ASV case to bkp qlick view prod into Mirror (Mail to Andres Lee) 
+
+9) To discuss Internally - ITG's
+
+10) To Remove this row  ->  To Discuss (Do we have any adhoc QV refresh - Wait for ken and Krishna confrimation)
+
+12) To recheck once again - go/no go meeting is at 11:15am on 30t
+
+15) Include Andre and - 5:00 PM enable  
+
+17) Move time frame - 5:30 PM 
+
+18) Andre and krishan to Monitor - 10:30 same time - To speak with sowma and narshima
+
+
+
+
+-> code Migration to stop from today - To discuss today and confirm
+-> 
+
+
+
+
+
+ meeting to add
+  
+  
+ 0) Remove the Old Copy and Updated the new list and also Excel file -n Meeting request
+  
+ 1) To  Add BI group to Meeting list - qctbi-bo-developers@qualcomm.com to the meeting List
+ 
+ 3) Deployment Group -> Create DL groups from TST -> PROD
+
+
