@@ -5,6 +5,8 @@ git add file
 git commit -m "dd"
 git pull
 
+To get fro Git -> git pull
+
 
 
 
